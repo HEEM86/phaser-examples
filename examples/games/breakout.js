@@ -14,7 +14,7 @@ var bricks;
 
 var ballOnPaddle = true;
 
-var lives = 100:;
+var lives = 100;
 var score = 0;
 
 var scoreText;
